@@ -1,0 +1,9 @@
+streamlit>=1.38
+pillow>=10.0
+pydantic>=2.0
+
+# AI providers — you only need the ones you actually use,
+# but installing all three lets you switch providers freely.
+google-genai>=1.0.0
+openai>=1.40
+anthropic>=0.40
