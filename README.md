@@ -2,7 +2,7 @@
 
 
 
-# [MILLICODE]🪱 
+# MILLICOUNT🪱 
 
 
 ## Basic Details
@@ -107,14 +107,17 @@ For Software:
 *Model Correctly Identifies non millipede objects*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
+<img width="1536" height="1024" alt="Workflow" src="https://github.com/user-attachments/assets/de8b66ec-5f35-4ed0-a539-4e7fb9ae6629" />
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+
+https://github.com/user-attachments/assets/7fd833e6-a5cf-45a3-8801-28cf899b8596
+
+
+A demo video of our Vision based model Working
+
+
 
 
 
@@ -124,7 +127,7 @@ For Software:
 
 
 ---
-Made with ❤️ at TinkerHub Useless Projects 
+Made with 🍑 at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--26-26?link=https%3A%2F%2Ftinkerhub.org%2Fevents%2F1M8ORET9A1%2Fuseless-projects-3.0)
