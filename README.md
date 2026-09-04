@@ -2,39 +2,36 @@
 
 
 
-# [Project Name] 🎯
+# [MILLICODE]🪱 
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Latverians]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Gopikrishna R S - Muthoot Institute Of Technology and Science
+- Member 2: Ebin Jose - Muthoot Institute of Technology and Science
+  
 
 ### Project Description
-[2-3 lines about what your project does]
+ Millicount is a simple image-processing project designed to count the body segments (rings) of a millipede from an image or live feed.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Millipedes curl on itself to count their legs
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
+1) The project uses basic computer vision techniques to identify and count the segments.
+2) Provide the image to a chatbot connected via api keys who does the hard work.
+   
 ## Technical Details
 ### Technologies/Components Used
 For Software:
 - [Languages used]
+     1.Python
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
